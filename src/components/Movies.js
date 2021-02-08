@@ -3,3 +3,4 @@ import { movies } from '../data';
 
 const Movies = () => {
   return (
+    
